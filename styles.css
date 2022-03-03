@@ -29,16 +29,16 @@ a:hover {
   min-height: 30px;
   padding: 10px;
   position: fixed;
-  text-align: center;
+  text-align: center; 
 }
+
 .nav {
   display: flex;
   justify-content: space-around;
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
-  padding: 0;
-  
+  padding: 0;  
 }
 .nav .name {
   display: none;
@@ -56,7 +56,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/riverbend02.jpg') no-repeat top center ;
+  background: url('images/riverbend04.jpg') no-repeat top center ;
   background-size: 100% 395px;
   overflow: hidden;
   padding-top: 60px;
@@ -128,37 +128,36 @@ ul.skills {
 float: inline-start;
 width: 33%;
 display: block;
-
 }
 
 .cake {
-margin-top: 35px;
-margin-bottom: 35px;
-width: 500px;
-height: 100px;
-border-radius: 3%;
-border:#222 solid 4px;
-}
-
-.drawing {
-margin-top: 35px;
-margin-bottom: 35px;
-width: 500px;
-height: 100px;
-border-radius: 3%;
-border:#222 solid 4px;
-
-}
-
-.spider {
-margin-top: 35px;
-margin-bottom: 35px;
-width: 500px;
-height: 100px;
-border-radius: 3%;
-border:#222 solid 4px;
-
-}
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 500px;
+  height: 100px;
+  border-radius: 3%;
+  border:#222 solid 4px;
+  }
+  
+  .drawing {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 500px;
+  height: 100px;
+  border-radius: 3%;
+  border:#222 solid 4px;
+  
+  }
+  
+  .spider {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 500px;
+  height: 100px;
+  border-radius: 3%;
+  border:#222 solid 4px;
+  
+  }
 
 footer {
   width: 100%;
